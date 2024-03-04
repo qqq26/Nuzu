@@ -5,7 +5,7 @@ SPDX-License-Identifier: GPL-2.0-or-later
 
 <h1 align="center">
   <br>
-  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-emu/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
+  <a href="https://yuzu-emu.org/"><img src="https://raw.githubusercontent.com/yuzu-mirror/yuzu-assets/master/icons/icon.png" alt="yuzu" width="200"></a>
   <br>
   <b>yuzu</b>
   <br>
@@ -15,6 +15,9 @@ SPDX-License-Identifier: GPL-2.0-or-later
 <br>
 It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.
 </h4>
+
+> [!NOTE]
+> This is an unofficial mirror fork of the original repository.
 
 <p align="center">
     <a href="https://dev.azure.com/yuzu-emu/yuzu/">
@@ -82,4 +85,4 @@ If you wish to support us a different way, please join our [Discord](https://dis
 
 ## License
 
-yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-emu/yuzu/blob/master/LICENSE.txt) file.
+yuzu is licensed under the GPLv3 (or any later version). Refer to the [LICENSE.txt](https://github.com/yuzu-mirror/yuzu/blob/master/LICENSE.txt) file.
