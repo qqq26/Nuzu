@@ -63,7 +63,7 @@ If you want to contribute to the user interface translation project, please chec
 * __MacOS__: [MacOS Build](https://github.com/yuzu-mirror/yuzu/wiki/Building-For-MacOS)
 * __Android__: [Android Build](https://github.com/yuzu-mirror/yuzu/wiki/Building-For-Android)
 
-* ## Download
+## Download
 
 You can download the latest releases automatically via the installer on our [downloads](https://web.archive.org/web/20240304063132/https://yuzu-emu.org/downloads/) page.
 
